@@ -1,24 +1,24 @@
 # Üst Menü
 
-![TopMenu](/docs.toltekcampus.github.io/docs/media/layout/topmenu2.png)
+![TopMenu](/docs/media/layout/topmenu2.png)
 
 ## Komapakt Görünüm
 
 Ekranda yer aldığı gibi sol üstte bulunan bu butona tıklandığında solda yer alan menüyü daraltır ve ikonlar şeklinde görüntüler. Küçük ekranlarda, tablet ve mobil cihazlarında kullanıcı deneyimini geliştirmek ve işlevselliği artırmak için etkili bir özelliktir.
 
-![MenuToogle](/docs.toltekcampus.github.io/docs/media/layout/menutoogle2.png)
+![MenuToogle](/docs/media/layout/menutoogle2.png)
 
 ## Roller
 
 Kullanıcının birden fazla rolü varsa bu ikon görünür ve hızlıca roller arasında geçiş yapabilmesini sağlar.
 
-![Roles](/docs.toltekcampus.github.io/docs/media/layout/roles.png)
+![Roles](/docs/media/layout/roles.png)
 
 ## Uygulamalar
 
 Uygulamalar butonuna tıklayarak hızlıca istenilen uygulama ekranına geçilebilir.
 
-![TopMenu](/docs.toltekcampus.github.io/docs/media/layout/app.png)
+![TopMenu](/docs/media/layout/app.png)
 
 ## Duyurular
 
@@ -28,7 +28,7 @@ Duyurular ikonuna tıklandığında:
 * Duyuru listesinde Hedef, Kitle ve Okundu bilgilerine yer verilir
 * “Tümünü okundu yap” butonuna tıklayarak tüm duyuruların okundu bilgisi değiştirilebilir
 
-![Announcement](/docs.toltekcampus.github.io/docs/media/layout/announcement2.png)
+![Announcement](/docs/media/layout/announcement2.png)
 
 ## Görünüm Ayarları
 
@@ -41,7 +41,7 @@ Değiştirebileceğiniz ayarlara örnek olarak:
 * Erişilebilirlik seçeneklerini değiştirebilir
 * Yazı tipi boyutunu değiştirebilirsiniz
 
-![ViewCogs](/docs.toltekcampus.github.io/docs/media/layout/viewcogs2.png)
+![ViewCogs](/docs/media/layout/viewcogs2.png)
 
 ## Kullanıcı Bilgileri
 
@@ -52,4 +52,4 @@ Profil kartında yer alan:
 * Ekranı **Yazdırabilir (Ctrl + P)**
 * **Çıkış** yapıp oturumunuzu kapatabilirsiniz
 
-![Profile](/docs.toltekcampus.github.io/docs/media/layout/profile.png)
+![Profile](/docs/media/layout/profile.png)

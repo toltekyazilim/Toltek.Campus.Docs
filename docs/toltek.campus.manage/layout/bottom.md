@@ -16,7 +16,7 @@ nav_order: 3
 
 # Alt Menü
 
-![Bottom](/docs.toltekcampus.github.io/docs/media/layout/bottom.png)
+![Bottom](/docs/media/layout/bottom.png)
 
 ## Hakkında
 

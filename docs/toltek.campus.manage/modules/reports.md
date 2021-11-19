@@ -19,4 +19,4 @@ Raporlar; yöneticilerin sistem, kullanıcılar, eğitimler ve daha fazlası hak
 
 Yöneticiler sistemde tanımlı raporları ilgili kategoriler altında listeleyip rapor adı ve açıklamasına göre arama yapabilir. Yöneticiler rapor listesinden veya raporun detay sayfası üzerinden raporun çıktısını (Pdf ya da Excel) alabilir.
 
-![Reports](/docs.toltekcampus.github.io/docs/media/modules/reports/reports.png)
+![Reports](/docs/media/modules/reports/reports.png)

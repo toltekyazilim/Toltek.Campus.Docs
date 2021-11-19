@@ -21,11 +21,11 @@ nav_order: 6
 * Mevcut Şube tanımlamaları Excel olarak indirilebilir
 * Excel ile toplu Şube yüklenebilir ve ilgili işlemler Yüklemeler modülünden takip edilir. (İşlemi Yapan, İşlem Tarihi, Eklenen-Güncellenen şubeler)
 
-![Group](/docs.toltekcampus.github.io/docs/media/modules/group/group.png)
+![Group](/docs/media/modules/group/group.png)
 
 ## Eğitmen
 
-![Group_Teacher](/docs.toltekcampus.github.io/docs/media/modules/group/group_teacher.png)
+![Group_Teacher](/docs/media/modules/group/group_teacher.png)
 
 * Eğitmen listesini Excel (.xlsx) dosyası olarak indirebilirsiniz.
 * Eğitmenleri Eşitle:
@@ -34,11 +34,11 @@ nav_order: 6
 
 ### Eğitmen Yüklemeleri
 
-![Group_TeacherImport](/docs.toltekcampus.github.io/docs/media/modules/group/group_teacherimport.png)
+![Group_TeacherImport](/docs/media/modules/group/group_teacherimport.png)
 
 ## Öğrenci
 
-![Group_Student](/docs.toltekcampus.github.io/docs/media/modules/group/group_student.png)
+![Group_Student](/docs/media/modules/group/group_student.png)
 
 * Öğrenci listesini Excel dosyası olarak indirebilirsiniz
 * Öğrencileri toplu olarak Excel ile yükleyebilirsiniz
@@ -46,11 +46,11 @@ nav_order: 6
 
 ### Öğrenci Yüklemeleri
 
-![Group_StudentImport](/docs.toltekcampus.github.io/docs/media/modules/group/group_studentimport.png)
+![Group_StudentImport](/docs/media/modules/group/group_studentimport.png)
 
 ## İşlemler
 
-![Group_Transactions](/docs.toltekcampus.github.io/docs/media/modules/group/group_transactions.png)
+![Group_Transactions](/docs/media/modules/group/group_transactions.png)
 
 * Tüm şubelerin durumunu “Aktif” yapabilirsiniz
 * Tüm boş şubeleri “Pasif” yapabilirsiniz
@@ -61,30 +61,30 @@ nav_order: 6
 
 Entegrasyon modülü aktif ise, tek seferde tüm şubeler ya da seçilen fakülte/birim/eğitime bağlı şubeler otomatik olarak sisteme aktarılabilir ve ilgili işlemler Yüklemeler modülünden takip edilebilir. (İşlemi Yapan, İşlem tarihi, Eklenen, Güncellenen şubeler)
 
-![Group_GroupImport](/docs.toltekcampus.github.io/docs/media/modules/group/group_groupimport.png)
+![Group_GroupImport](/docs/media/modules/group/group_groupimport.png)
 
 ## Hızlı İşlemler
 
 İlgili şubeyi Aktif veya Pasif yapmak için tıklamak yeterli.
 
-![Group_FastTransactions](/docs.toltekcampus.github.io/docs/media/modules/group/group_fasttransactions.png)
+![Group_FastTransactions](/docs/media/modules/group/group_fasttransactions.png)
 
 ## Özet
 
-![Group_Summary](/docs.toltekcampus.github.io/docs/media/modules/group/group_summary.png)
+![Group_Summary](/docs/media/modules/group/group_summary.png)
 
 ## Detaylar
 
-![Group_Details](/docs.toltekcampus.github.io/docs/media/modules/group/group_details.png)
+![Group_Details](/docs/media/modules/group/group_details.png)
 
 ## Seçenekler
 
 Şube özellikleri Seçenekler sayfasında değiştirilir.
 
-![Group_Edit](/docs.toltekcampus.github.io/docs/media/modules/group/group_edit.png)
+![Group_Edit](/docs/media/modules/group/group_edit.png)
 
 ## Raporlar
 
 Raporlar sayfasında daha önceden tanımlanmış şube raporlarına ulaşılabilir.
 
-![Group_Reports](/docs.toltekcampus.github.io/docs/media/modules/group/group_reports.png)
+![Group_Reports](/docs/media/modules/group/group_reports.png)

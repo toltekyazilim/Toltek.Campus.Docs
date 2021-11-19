@@ -20,7 +20,7 @@ Birim modülünün özellikleri:
 * Birim listesinde ilgili birimin fakültesi, kodu, adı, akademik takvimi ile eğitim, şube, öğrenci, öğrenci-kayıt sayıları gösterilir, Excel ile Öğrenci Yükleme ve Öğrenci Senkronizasyon işlemleri doğrudan liste üzerinde yapılabilir.
 * Mevcut Birim tanımlamaları Excel olarak indirilebilir.
 
-![Unit](/docs.toltekcampus.github.io/docs/media/modules/unit/unit.png)
+![Unit](/docs/media/modules/unit/unit.png)
 
 ## İşlemler
 
@@ -31,7 +31,7 @@ Birim modülünün özellikleri:
 * **Temizle (Boş Birimleri):** İçerisinde eğitim kaydı bulunmayan bölümleri siler
 * **Yüklemeler:** Daha önce Excel ile yapılan yüklemeleri, yüklemenin durumunu, eklenen, güncellenen, değişen ve geçersiz kayıt sayılarını gösterir
 
-![Unit_Transactions](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_transactions.png)
+![Unit_Transactions](/docs/media/modules/unit/unit_transactions.png)
 
 ## Yüklemeler
 
@@ -39,7 +39,7 @@ Excel ile toplu Birim yüklenebilmeli ve ilgili işlemler Yüklemeler modülünd
 
 Entegrasyon modülü aktif ise, tek seferde tüm birimler ya da seçilen fakülteye bağlı birimler otomatik olarak sisteme aktarılabilir ve ilgili işlemler Yüklemeler modülünden takip edilir. (İşlemi Yapan, İşlem tarihi, Eklenen-Güncellenen birimler)
 
-![Unit_Import](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_import.png)
+![Unit_Import](/docs/media/modules/unit/unit_import.png)
 
 ## Yeni Birim
 
@@ -64,19 +64,19 @@ Yeni birim eklerken aşağıdaki form doldurulur ve “Ekle” butonuna tıklan�
 
 * **Bilgi mesajını göster/gösterme:** Birim tanımlarında ilgili birim öğrencilerine giriş ekranında gösterilmek kaydıyla birim bilgilendirme mesajı tanımlanabilir. (Bilgi Mesajı Göster)
 
-![Unit_New](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_new.png)
+![Unit_New](/docs/media/modules/unit/unit_new.png)
 
 ## Eşitle
 
-![Unit_Sync](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_sync.png)
+![Unit_Sync](/docs/media/modules/unit/unit_sync.png)
 
 ## Detaylar
 
-![Unit_Details](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_details.png)
+![Unit_Details](/docs/media/modules/unit/unit_details.png)
 
-![Unit_Cog](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_cog.png)
+![Unit_Cog](/docs/media/modules/unit/unit_cog.png)
 
-![Unit_Details2](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_details2.png)
+![Unit_Details2](/docs/media/modules/unit/unit_details2.png)
 
 ### 1. Kısım
 
@@ -107,17 +107,17 @@ Birim hakkında genel bilgilerin yer aldığı paneldir.
 
 Birimin özellikleri Seçenekler sayfasında düzenlenir.
 
-![Unit_Edit](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_edit.png)
+![Unit_Edit](/docs/media/modules/unit/unit_edit.png)
 
 ## Raporlar
 
 Bölüm hakkında raporlar bu sayfada incelenir. Raporlar Excel dosya formatında indirilebilir.
 
-![Unit_Reports](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_reports.png)
+![Unit_Reports](/docs/media/modules/unit/unit_reports.png)
 
 ## Dersleri İçe Aktar
 
-![Unit_LessonImport](/docs.toltekcampus.github.io/docs/media/modules/unit/unit_lessonimport.png)
+![Unit_LessonImport](/docs/media/modules/unit/unit_lessonimport.png)
 
 ## Birimi Sil
 

@@ -13,4 +13,4 @@
 
 ---
 
-![ToltekCampus](/docs.toltekcampus.github.io/docs/media/layout/layout2.png)
+![ToltekCampus](/docs/media/layout/layout2.png)

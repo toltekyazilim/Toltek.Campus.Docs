@@ -24,13 +24,13 @@ Yapılabilecek işlemler aşağıdaki gibidir:
 * Sanal takvim adına tıklayarak ilgili takvimin “Detaylar” sayfasına geçiş yapılır
 * **İşlemler:** Seçenekler, Şubeler, Raporlar, Sil
 
-![VSchedule](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule.png)
+![VSchedule](/docs/media/modules/course.app/vschedule/vschedule.png)
 
 ## Sanal Takvim: Liste
 
 Oluşturulan Sanal Takvimler bu sayfada listelenir. Sunucu, Gün, Saat aralığı ve Fakülteye göre filtrelenebilir. Ders kodu ve adına göre arama yapılabilir. Sanal Takvim adına veya öğrenci sütunun yanında bulunan ikona tıklayarak çeşitli işlemlerin yapılabileceği sayfaya geçiş yapılabilir.
 
-![VSchedule_List_View](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule_list_view.png)
+![VSchedule_List_View](/docs/media/modules/course.app/vschedule/vschedule_list_view.png)
 
 ### Detaylar
 
@@ -43,7 +43,7 @@ Sanal Takvimin detayların aşağıdaki bilgiler yer alır:
 * Durum
 * Sanal sınıf kayıtları
 
-![VSchedule_Details](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule_details.png)
+![VSchedule_Details](/docs/media/modules/course.app/vschedule/vschedule_details.png)
 
 ### Seçenekeler
 
@@ -57,25 +57,25 @@ Sanal Takvim bilgileri “Seçenekler” sayfasında güncellenebilir. Sanal Tak
 * Süre
 * Durum: Aktif/Pasif
 
-![VSchedule_Edit](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule_details.png)
+![VSchedule_Edit](/docs/media/modules/course.app/vschedule/vschedule_details.png)
 
 ### Şubeler
 
 Sanal takvimin uygulanacağı şubeler burada listelenir. Şubeler Döneme göre filtrelenebilir. Şube listesi içerisinde şube adına göre arama yapılabilir.
 
-![VSchedule_Group](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule_group.png)
+![VSchedule_Group](/docs/media/modules/course.app/vschedule/vschedule_group.png)
 
 ### Raporlar
 
 Sanal takvimle ilgili raporlar bu sayfada listelenir, Excel dosyası olarak indirilebilir.
 
-![VSchedule_Report](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule_report.png)
+![VSchedule_Report](/docs/media/modules/course.app/vschedule/vschedule_report.png)
 
 ## Sanal Takvim: Toplu Düzenleme
 
 Filtreleri kullanarak ilgili Fakülte ve Birime bağlı Eğitimlerin Sanal Takvimleri topluca tek ekrandan düzenlenebilir ve “Kaydet” butonuna tıklayarak yapılan değişiklikler kaydedilir.
 
-![VSchedule_Bulk_Edit](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule_bulk_edit_view.png)
+![VSchedule_Bulk_Edit](/docs/media/modules/course.app/vschedule/vschedule_bulk_edit_view.png)
 
 ## Sanal Takvim: Sunucu Dağılımı
 
@@ -83,7 +83,7 @@ Sanal Takvimler hangi sunuculara dağıtıldığı ve kaç öğrenci olduğu bil
 
 _İçerik daha sonra eklenecek._
 
-![VSchedule_Server_Distribution](/docs.toltekcampus.github.io/docs/media/modules/course.app/vschedule/vschedule_server_distribution_view.png)
+![VSchedule_Server_Distribution](/docs/media/modules/course.app/vschedule/vschedule_server_distribution_view.png)
 
 ## Toplu İşlemler
 

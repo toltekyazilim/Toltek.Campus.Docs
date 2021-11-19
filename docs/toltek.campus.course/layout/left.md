@@ -6,4 +6,4 @@
 
 ---
 
-![LeftMenu](/docs.toltekcampus.com/media/layout/leftmenu3.png)
+![LeftMenu](/docs/media/layout/leftmenu3.png)

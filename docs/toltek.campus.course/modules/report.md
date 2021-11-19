@@ -19,10 +19,10 @@ Sanal Takvim, Sınav ve Sanal Sınıf başlıkları altında önceden oluşturul
 
 Rapor adına tıklayarak Detaylar sayfasına geçiş yapılabilir. Rapor adının sağında bulunan ikona tıklayarak rapor indirilebilir.
 
-![Report](/docs.toltekcampus.github.io/docs/media/modules/course.app/report/report.png)
+![Report](/docs/media/modules/course.app/report/report.png)
 
 ## Detaylar
 
 Seçilen raporun detayları sayfada tablo olarak gösterilir ve Excel dosyası olarak indirilebilir.
 
-![Report_Details](/docs.toltekcampus.github.io/docs/media/modules/course.app/report/report_details.png)
+![Report_Details](/docs/media/modules/course.app/report/report_details.png)

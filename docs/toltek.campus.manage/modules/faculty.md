@@ -21,11 +21,11 @@ Fakülteler modülünün özellikleri:
 * Fakülte listesinde ilgili fakültenin kodu, adı, akademik takvimi ile birim, eğitim, şube, öğrenci, öğrenci-kayıt sayıları gösterilir, Excel ile Öğrenci Yükleme ve Öğrenci Senkronizasyon işlemleri doğrudan liste üzerinde yapılabilir.
 * Mevcut Fakülte tanımlamaları Excel olarak indirilebilir.
 
-![Faculty](/docs.toltekcampus.github.io/docs/media/modules/faculty/faculty.png)
+![Faculty](/docs/media/modules/faculty/faculty.png)
 
 ## İşlemler
 
-![Transactions](/docs.toltekcampus.github.io/docs/media/modules/faculty/transactions.png)
+![Transactions](/docs/media/modules/faculty/transactions.png)
 
 İşlemler menüsü altında yapılabilecek toplu işlemler:
 
@@ -38,7 +38,7 @@ Fakülteler modülünün özellikleri:
 
 Entegrasyon modülü aktif ise, tek seferde tüm fakülteler otomatik olarak sisteme aktarılabilir ve ilgili işlemler Yüklemeler modülünden takip edilebilir.
 
-![Import](/docs.toltekcampus.github.io/docs/media/modules/faculty/import.png)
+![Import](/docs/media/modules/faculty/import.png)
 
 ## Yeni Fakülte
 
@@ -52,29 +52,29 @@ Yeni fakülte eklerken aşağıdaki form doldurulur ve “Ekle” butonuna tıkl
 * Anahtar: Fakülte anahtarı belirlenir,
 * Durum: Aktif/Pasif uygun olan seçilir ve “Ekle” butonuna basılır.
 
-![New](/docs.toltekcampus.github.io/docs/media/modules/faculty/new.png)
+![New](/docs/media/modules/faculty/new.png)
 
 ## Eşitle
 
-![Sync](/docs.toltekcampus.github.io/docs/media/modules/faculty/sync.png)
+![Sync](/docs/media/modules/faculty/sync.png)
 
 ## Detaylar
 
 Fakültenin türü, bağlı bulunduğu takvim, yöneticisi, kodu, adı, anahtar ve durum gibi genel bilgileri bu sayfada takip edilir.
 
-![Details](/docs.toltekcampus.github.io/docs/media/modules/faculty/details.png)
+![Details](/docs/media/modules/faculty/details.png)
 
 ## Seçenekler
 
 Fakülte özellikleri seçenekler ekranında düzenlenir.
 
-![Edit](/docs.toltekcampus.github.io/docs/media/modules/faculty/edit.png)
+![Edit](/docs/media/modules/faculty/edit.png)
 
 ## Raporlar
 
 Fakülte hakkında raporlar bu sayfada incelenir. Raporlar Excel dosya formatında indirilebilir.
 
-![Reports](/docs.toltekcampus.github.io/docs/media/modules/faculty/reports.png)
+![Reports](/docs/media/modules/faculty/reports.png)
 
 ## Bölümleri İçe Aktar
 
@@ -86,7 +86,7 @@ _İçerik daha sonra eklenecek._
 
 ## Dersleri İçe Aktar
 
-![LessonImport](/docs.toltekcampus.github.io/docs/media/modules/faculty/lessonimport.png)
+![LessonImport](/docs/media/modules/faculty/lessonimport.png)
 
 ## Pasif Yap
 

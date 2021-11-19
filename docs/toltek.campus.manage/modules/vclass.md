@@ -21,11 +21,11 @@ Sanal sınıf modülü yaygın sanal sınıf yazılımlarının sisteme entegre 
 * Sanal sınıf ders planlaması yazılım üzerinden yapılabilir ve bu yazılımdan sanal sınıfa geçiş esnasında tekrar şifre bilgisine ihtiyaç duyulmaz
 * Sanal sınıf ders tekrar yayınlarına sistem üzerinden erişilebilir
 
-![VClass](/docs.toltekcampus.github.io/docs/media/modules/vclass/vclass.png)
+![VClass](/docs/media/modules/vclass/vclass.png)
 
 ## Bbb (BigBlueButton)
 
-![Bbb](/docs.toltekcampus.github.io/docs/media/modules/vclass/bbb.png)
+![Bbb](/docs/media/modules/vclass/bbb.png)
 
 **1. Kısım: BigBlueButton Sunucuları Listesi :** BigBlueButton sunucularının listesi, linkleri, durumu (aktif veya pasif) ve bu sunuculardaki sanal sınıf sayısı eğer varsa sanal takvim sayısı 1. Kısımda yer alan tabloda gösterilir.
 
@@ -60,13 +60,13 @@ Sunucu ismine tıklayarak sunucu ayarlarını tekrar düzenleyebilirsiniz. Aynı
 * Durum:
 * Paylaşım:
 
-![BbbAdd](/docs.toltekcampus.github.io/docs/media/modules/vclass/bbb-add.png)
+![BbbAdd](/docs/media/modules/vclass/bbb-add.png)
 
 ## Adobe Connect
 
 Eklenen Adobe Connect sunucuları listelenir eğer varsa sanal sınıf sayısı ve sanal takvim sayısı listelenir.
 
-![Connect](/docs.toltekcampus.github.io/docs/media/modules/vclass/connect.png)
+![Connect](/docs/media/modules/vclass/connect.png)
 
 ### Adobe Connect Sunucusu Ekle
 
@@ -79,22 +79,22 @@ Eklenen Adobe Connect sunucuları listelenir eğer varsa sanal sınıf sayısı 
 * Durum:
 * Sıra:
 
-![ConnectAdd](/docs.toltekcampus.github.io/docs/media/modules/vclass/connect-add.png)
+![ConnectAdd](/docs/media/modules/vclass/connect-add.png)
 
 ## Perculus
 
 Eklenen Perculus sunucuları listelenir eğer varsa sanal sınıf sayısı ve sanal takvim sayısı listelenir.
 
-![Perculus](/docs.toltekcampus.github.io/docs/media/modules/vclass/perculus.png)
+![Perculus](/docs/media/modules/vclass/perculus.png)
 
 ### Perculus Sunucusu Ekle
 
-![PerculusAdd](/docs.toltekcampus.github.io/docs/media/modules/vclass/perculus-add.png)
+![PerculusAdd](/docs/media/modules/vclass/perculus-add.png)
 
 ## Perculus3
 
-![Perculus3](/docs.toltekcampus.github.io/docs/media/modules/vclass/perculus3.png)
+![Perculus3](/docs/media/modules/vclass/perculus3.png)
 
 ### Perculus3 Sunucusu Ekle
 
-![Perculus3Add](/docs.toltekcampus.github.io/docs/media/modules/vclass/perculus3-add.png)
+![Perculus3Add](/docs/media/modules/vclass/perculus3-add.png)

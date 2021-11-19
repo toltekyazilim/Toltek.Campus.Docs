@@ -18,13 +18,13 @@ nav_order: 3
 
 Sanal Sınıflar Modülüne sol menü üzerinden erişilebileceği gibi Eğitimin İşlemler sayfasından erişim sağlanabilir.
 
-![VClass](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass.png)
+![VClass](/docs/media/modules/course.app/vclass/vclass.png)
 
 ## Sanal Sınıf: Liste
 
 Sanal sınıf listesi bu sayfada yer alır. Sanal sınıfları durumlarına göre (Bekliyor, Canlı, Onay Bekliyor vb.), Fakültelere ve zaman aralıklarına göre filtrelenebilir. Sanal sınıf adına tıklayarak sanal sınıfın Detaylar sayfasına geçilir.
 
-![VClass](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_list_view.png)
+![VClass](/docs/media/modules/course.app/vclass/vclass_list_view.png)
 
 ### Detaylar
 
@@ -36,7 +36,7 @@ Detaylar sayfasında 4 bölüm bulunmaktadır:
 3. Sanal sınıf kayıtları
 4. Dosyalar
 
-![VClass_Details](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_details.png)
+![VClass_Details](/docs/media/modules/course.app/vclass/vclass_details.png)
 
 Sanal sınıf ile ilgili aşağıdaki işlemleri yapabilir:
 
@@ -50,7 +50,7 @@ Sanal sınıf kayıtları üzerinde yapabilecek işlemler ise:
 2. Varsayılan Kayıt Yap
 3. Sil
 
-![VClass_Details2](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_details2.png)
+![VClass_Details2](/docs/media/modules/course.app/vclass/vclass_details2.png)
 
 ### Seçenekler
 
@@ -64,7 +64,7 @@ Sanal sınıf oluştururken girilen bilgiler Seçenekler sayfasında tekrar düz
 * Süre,
 * Yayınla
 
-![VClass_Edit](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_edit.png)
+![VClass_Edit](/docs/media/modules/course.app/vclass/vclass_edit.png)
 
 ### Şubeler
 
@@ -72,7 +72,7 @@ Sanal sınıfın yapılacağı gruplar bu sayfada yer alır. Tablo içerisindeki
 
 Tablo içerisinde Eğitmen, Öğrenci, Canlı olarak sanal sınıfı izleyen, Sonradan izleyen bilgisi ve Başarı yüzdesi verilir.
 
-![VClass_Group](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_group.png)
+![VClass_Group](/docs/media/modules/course.app/vclass/vclass_group.png)
 
 ### Öğrenciler
 
@@ -82,19 +82,19 @@ Sanal sınıfa kayıtlı tüm öğrenciler bu sayfada listelenir. Öğrenci list
 
 Tablo içerisinde öğrencilerin sanal sınıfa katılım, izleme ve durum bilgisi yer alır.
 
-![VClass_Student](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_student.png)
+![VClass_Student](/docs/media/modules/course.app/vclass/vclass_student.png)
 
 ### Raporlar
 
 Sanal sınıf hakkında Katılım ve Bbb – MeetingID raporlarına bu sayfadan erişilir, Excel dosyası olarak indirilebilir.
 
-![VClass_Report](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_report.png)
+![VClass_Report](/docs/media/modules/course.app/vclass/vclass_report.png)
 
 ### Mesajlar
 
 _İçerik daha sonra eklenecek._
 
-![VClass_Message](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_message.png)
+![VClass_Message](/docs/media/modules/course.app/vclass/vclass_message.png)
 
 ### Sil
 
@@ -104,13 +104,13 @@ _İçerik daha sonra eklenecek._
 
 Sanal sınıf Randevu Talepleri Durum (Onay Bekliyor, Reddedildi ve Onaylandı), Tarih ve Saat, Fakülte adına göre filtreleyebilir ve sanal sınıf adına göre arama yapılabilir.
 
-![VClass_Appointment](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_appointment_requests.png)
+![VClass_Appointment](/docs/media/modules/course.app/vclass/vclass_appointment_requests.png)
 
 ### Randevu Talebi İşlemleri
 
 Randevu talebinin Detaylar sayfasına geçmek için Sanal sınıf adına tıklanması gerekir.  Randevu talebinin durumunu değiştirmek için Detaylar sayfasındaki durum bölümünden uygun seçeneğin seçilmesi yeterlidir.
 
-![VClass_Appointment_Actions](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_appointment_requests_actions.png)
+![VClass_Appointment_Actions](/docs/media/modules/course.app/vclass/vclass_appointment_requests_actions.png)
 
 ## Sanal Sınıf: Denetim
 
@@ -122,7 +122,7 @@ Sanal sınıflar Denetim sayfasında yapılabilecek işlemler:
 * Listedekileri Geçerli Yap
 * Listedekileri Temizle
 
-![VClass_Control](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_control_view.png)
+![VClass_Control](/docs/media/modules/course.app/vclass/vclass_control_view.png)
 
 Sanal sınıfı denetlemek için sanal sınıf adına tıklayıp açılan sayfada önceden oluşturulmuş kriterlere göre yapılan sanal sınıfın istenilen niteliklerde olup olmadığı denetlenebilir.
 Denetlenebilecek nitelikler aşağıdaki gibidir:
@@ -140,4 +140,4 @@ Denetlenebilecek nitelikler aşağıdaki gibidir:
 * Mesaj (Var, Yok
 * Açıklama
 
-![VClass_Control2](/docs.toltekcampus.github.io/docs/media/modules/course.app/vclass/vclass_control_view2.png)
+![VClass_Control2](/docs/media/modules/course.app/vclass/vclass_control_view2.png)
