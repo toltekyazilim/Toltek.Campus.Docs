@@ -2,8 +2,8 @@
 layout: default
 title: Anasayfa
 nav_order: 1
-description: "Toltek dokümantasyonmları"
+description: "Toltek dokümantasyonları"
 permalink: /
 ---
 
-# Ürünler katalog şeklinde gözüksün
+# Açıklama
