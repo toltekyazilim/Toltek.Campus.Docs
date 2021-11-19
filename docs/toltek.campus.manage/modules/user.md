@@ -23,17 +23,17 @@ Kullanıcılar modülünün özellikleri:
 * Kullanıcılar Excel dosya olarak indirilebilir
 * Kullanıcılar Excel dosyası ile toplu olarak yüklenebilir
 
-![User](/docs.toltekcampus.com/media/modules/user/user.png)
+![User](/docs.toltekcampus.github.io/docs/media/modules/user/user.png)
 
 ## Yüklemeler
 
 Excel ile toplu kullanıcı yüklenebilir ve ilgili işlemler Yüklemeler modülünden takip edilir. (İşlemi Yapan, İşlem Tarihi, Eklenen-Güncellenen kullanıcılar)
 
-![User_Import](/docs.toltekcampus.com/media/modules/user/user_import.png)
+![User_Import](/docs.toltekcampus.github.io/docs/media/modules/user/user_import.png)
 
 ## Yeni Kullanıcı
 
-![User_New](/docs.toltekcampus.com/media/modules/user/user_new.png)
+![User_New](/docs.toltekcampus.github.io/docs/media/modules/user/user_new.png)
 
 ## Detaylar
 
@@ -46,28 +46,28 @@ Kullanıcı adına tıklayarak “Detaylar” sayfasına geçiş yapılır. Deta
   * Ders listeden eğitmenin dersten silinebilir
   * Fakülte, Birim, Eğitim, Şube seçerek eğitmeni yeni bir eğitim şubesine eklenebilir
 
-![User_Details](/docs.toltekcampus.com/media/modules/user/user_details.png)
+![User_Details](/docs.toltekcampus.github.io/docs/media/modules/user/user_details.png)
 
 ## Seçenekler
 
 Kullanıcı özellikleri Seçenekler sayfasında değiştirilebilir. “Kullanıcı Adı” bir kere oluşturulduktan sonra bir daha değiştirilemez.
 
-![User_Edit](/docs.toltekcampus.com/media/modules/user/user_edit.png)
+![User_Edit](/docs.toltekcampus.github.io/docs/media/modules/user/user_edit.png)
 
 ## Şifre Değiştir
 
 Kullanıcı şifresi bu sayfada değiştirilir.
 
-![User_Password](/docs.toltekcampus.com/media/modules/user/user_password.png)
+![User_Password](/docs.toltekcampus.github.io/docs/media/modules/user/user_password.png)
 
 ## Eğitmen Skoru
 
 Eğitmen Skoru sayfasında ve eğitmenin verdiği eğitimlerin listesi aktif-toplam hafta, sanal sınıf sayısı, sınav sayısı, ödev sayısı, içerik sayısı verileri ile üniversite tarafından tanımlanacak formül ile hesaplanmış eğitim bazlı eğitmen skoru gösterilir. 
 
-![User_TeacherScore](/docs.toltekcampus.com/media/modules/user/user_teacherscore.png)
+![User_TeacherScore](/docs.toltekcampus.github.io/docs/media/modules/user/user_teacherscore.png)
 
 ## Raporlar
 
 Raporlar sayfasında daha önceden tanımlanmış şube raporlarına ulaşılabilir.
 
-![User_Reports](/docs.toltekcampus.com/media/modules/user/user_reports.png)
+![User_Reports](/docs.toltekcampus.github.io/docs/media/modules/user/user_reports.png)

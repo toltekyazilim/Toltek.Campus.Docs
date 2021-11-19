@@ -20,11 +20,11 @@ Eğitim modülünün özellikleri:
 * Eğitim listesinde ilgili eğitimin fakültesi, birimi, kodu, adı, akademik takvimi ile şube, bağlı ders, öğrenci, öğrenci-kayıt sayıları gösterilir, Excel ile Öğrenci Yükleme ve Öğrenci Senkronizasyon işlemleri doğrudan liste üzerinde yapılabilir.
 * Mevcut Eğitim tanımlamaları Excel olarak indirilebilir.
 
-![Course](/docs.toltekcampus.com/media/modules/course/course.png)
+![Course](/docs.toltekcampus.github.io/docs/media/modules/course/course.png)
 
 ## İşlemler
 
-![Course_Transactions](/docs.toltekcampus.com/media/modules/course/course_transactions.png)
+![Course_Transactions](/docs.toltekcampus.github.io/docs/media/modules/course/course_transactions.png)
 
 * Excel ile toplu Eğitim yüklenebilir ve ilgili işlemler Yüklemeler modülünden takip edilebilir. (İşlemi Yapan, İşlem Tarihi, Eklenen-Güncellenen eğitimler)
 * Entegrasyon modülü aktif ise, tek seferde tüm eğitimler ya da seçilen fakülte/birime bağlı eğitimler otomatik olarak sisteme aktarılabilir ve ilgili işlemler Yüklemeler modülünden takip edilebilir. (İşlemi Yapan, İşlem tarihi, Eklenen-Güncellenen eğitimler)
@@ -36,7 +36,7 @@ Eğitim modülünün özellikleri:
 
 ### Yüklemeler
 
-![Course_Import](/docs.toltekcampus.com/media/modules/course/course_import.png)
+![Course_Import](/docs.toltekcampus.github.io/docs/media/modules/course/course_import.png)
 
 ## Yeni Eğitim
 
@@ -57,19 +57,19 @@ Eğitim modülünün özellikleri:
 * Entegrasyon
 * Durum
 
-![Course_New](/docs.toltekcampus.com/media/modules/course/course_new.png)
+![Course_New](/docs.toltekcampus.github.io/docs/media/modules/course/course_new.png)
 
 ## Eşitle
 
-![Course_Sync](/docs.toltekcampus.com/media/modules/course/course_sync.png)
+![Course_Sync](/docs.toltekcampus.github.io/docs/media/modules/course/course_sync.png)
 
 ## Detaylar
 
-![Course_Details](/docs.toltekcampus.com/media/modules/course/course_details.png)
+![Course_Details](/docs.toltekcampus.github.io/docs/media/modules/course/course_details.png)
 
-![Course_Cog](/docs.toltekcampus.com/media/modules/course/course_cog.png)
+![Course_Cog](/docs.toltekcampus.github.io/docs/media/modules/course/course_cog.png)
 
-![Course_Details2](/docs.toltekcampus.com/media/modules/course/course_details2.png)
+![Course_Details2](/docs.toltekcampus.github.io/docs/media/modules/course/course_details2.png)
 
 Eğitim detaylarında:
 
@@ -82,7 +82,7 @@ Eğitim detaylarında:
 
 ## Seçenekler
 
-![Course_Edit](/docs.toltekcampus.com/media/modules/course/course_edit.png)
+![Course_Edit](/docs.toltekcampus.github.io/docs/media/modules/course/course_edit.png)
 
 ## Şubeler
 
@@ -92,7 +92,7 @@ Eğitim detaylarında:
 * Kayıtlı şubeler Excel olarak indirilebilmelidir
 * Excel ile toplu Şube yüklenebilir ve ilgili işlemler Yüklemeler modülünden takip edilir. (İşlemi Yapan, İşlem Tarihi, Eklenen-Güncellenen şubeler)
 
-![Course_Groups](/docs.toltekcampus.com/media/modules/course/course_groups.png)
+![Course_Groups](/docs.toltekcampus.github.io/docs/media/modules/course/course_groups.png)
 
 ## Eğitmenler
 
@@ -102,7 +102,7 @@ Eğitim detaylarında:
 * Kayıtlı eğitmenler Excel olarak indirilebilir.
 * Excel ile toplu Eğitmen yüklenebilir ve ilgili işlemler Yüklemeler modülünden takip edilir. (İşlemi Yapan, İşlem Tarihi, Eklenen-Güncellenen eğitmenler)
 
-![Course_Teacher](/docs.toltekcampus.com/media/modules/course/course_teacher.png)
+![Course_Teacher](/docs.toltekcampus.github.io/docs/media/modules/course/course_teacher.png)
 
 ## Öğrenciler
 
@@ -112,15 +112,15 @@ Eğitim detaylarında:
 * Kayıtlı öğrenciler Excel olarak indirilebilir.
 * Excel ile toplu Öğrenci yüklenebilir ve ilgili işlemler Yüklemeler modülünden takip edilebilir. (İşlemi Yapan, İşlem Tarihi, Eklenen-Güncellenen öğrenciler)
 
-![Course_Student](/docs.toltekcampus.com/media/modules/course/course_student.png)
+![Course_Student](/docs.toltekcampus.github.io/docs/media/modules/course/course_student.png)
 
 ## Eşleştirmeler
 
-![Course_Pairing](/docs.toltekcampus.com/media/modules/course/course_pairing.png)
+![Course_Pairing](/docs.toltekcampus.github.io/docs/media/modules/course/course_pairing.png)
 
 ## Raporlar
 
-![Course_Reports](/docs.toltekcampus.com/media/modules/course/course_reports.png)
+![Course_Reports](/docs.toltekcampus.github.io/docs/media/modules/course/course_reports.png)
 
 ## Eğitimi Sil
 
@@ -130,4 +130,4 @@ _İçerik daha sonra eklenecek._
 
 “Eğitimi Yönet” yazısına tıklandığında eğitimle ilgili detaylı işlemlerin yapılabileceği “Eğitim Uygulamasına” geçiş yapılır.
 
-![Course_App](/docs.toltekcampus.com/media/modules/course/course_app.png)
+![Course_App](/docs.toltekcampus.github.io/docs/media/modules/course/course_app.png)

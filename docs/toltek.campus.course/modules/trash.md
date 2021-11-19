@@ -26,4 +26,4 @@ Silinen aktiviteler bu sayfa üzerinden geri alınabilir. Tabloda yer alan bilgi
 * Aktivite Adı,
 * İşlem yapan kişi ve işlem tarihi
 
-![Trash](/docs.toltekcampus.com/media/modules/course.app/trash/trash.png)
+![Trash](/docs.toltekcampus.github.io/docs/media/modules/course.app/trash/trash.png)

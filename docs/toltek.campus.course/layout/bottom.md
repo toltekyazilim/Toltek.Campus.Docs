@@ -1,6 +1,6 @@
 # Alt Menü
 
-![Bottom](/docs.toltekcampus.com/media/layout/bottom.png)
+![Bottom](/docs.toltekcampus.github.io/docs/media/layout/bottom.png)
 
 ## Hakkında
 

@@ -22,11 +22,11 @@ Sistemde tanımlı tüm eğitimlerin listelenip yönetilebildiği modüldür. Bu
 * Eğitim listesinde ilgili eğitimin fakültesi, birimi, kodu, adı ile şube, öğrenci, içerik, sanal sınıf, sınav, ödev, sanal takvim ve duyuru sayıları gösterilmektedir
 * Listedeki herhangi bir eğitimin üzerine gelindiğinde Eğitim İşlemleri menüsü açılır ve menüde ilgili eğitimin Seçenekler, Şubeler, Eğitmenler, Öğrenciler ve Duyurular sayfalarına erişilebilir
 
-![MenuToogle](/docs.toltekcampus.com/media/modules/course.app/course/course.png)
+![MenuToogle](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course.png)
 
 Eğitimin yönetildiği bu sayfaya Eğitimler sayfasından Eğitim adına tıklayarak da kolayca ulaşabilir.
 
-![Transactions](/docs.toltekcampus.com/media/modules/course.app/course/course_transactions.png)
+![Transactions](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_transactions.png)
 
 ### Önemli
 
@@ -71,50 +71,50 @@ Ayarlar:      Yönetim uygulamasına geçi yapılır. Eğitimle ilgili temel aya
 * İçeriklerin öğrenciler tarafından izlenme yüzdesini ve soru işaretinin anlamı ne
 * İçerik isimlerine tıklayarak içeriğin Detaylar sayfasına geçiş yapılır
 
-![Summary](/docs.toltekcampus.com/media/modules/course.app/course/course_summary.png)
+![Summary](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_summary.png)
 
 ## Seçenekler
 
 Yönetim Uygulamasında belirlenen eğitim özellikleri Eğitim Uygulamasında değiştirilemez sadece açıklama eklenebilir.
 
-![Course Edit](/docs.toltekcampus.com/media/modules/course.app/course/course_edit.png)
+![Course Edit](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_edit.png)
 
 ## Şube
 
 Şube adı belirlenip “Ekle” diyerek hızlıca şube eklenebilir. Şube listesi Dönemlere göre şube listesi filtrelenebilir. Şube adına göre arama yapılabilir. Şube tablosundaki sütunlar kullanım şekline göre özelleştirilebilir.
 Şubeler toplu olarak Excel ile yüklenebilir. Kayıtlı şubeler Excel dosyası olarak indirilebilir.
 
-![Course Group](/docs.toltekcampus.com/media/modules/course.app/course/course_group.png)
+![Course Group](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_group.png)
 
 ### Şube-Detaylar
 
 Şube detaylarında Fakülte, Birim, Eğitim, Şube Adı ve Katılım bilgileri yer alır.
 
-![Course.Group Details](/docs.toltekcampus.com/media/modules/course.app/course/course_group.png)
+![Course.Group Details](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_group.png)
 
 ### Şube-Seçenekler
 
 Seçenekler bölümünden şube adı değiştirilebilir.
 
-![Course.Group Edit](/docs.toltekcampus.com/media/modules/course.app/course/course_group_edit.png)
+![Course.Group Edit](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_group_edit.png)
 
 ### Şube-Raporlar
 
 Önceden belirlenmiş başlıklar altında çeşitli raporları takip edebilir ve Excel dosyası olarak indirilebilir.
 
-![Course.Group Report](/docs.toltekcampus.com/media/modules/course.app/course/course_group_reports.png)
+![Course.Group Report](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_group_reports.png)
 
 ## Eğitmen
 
 Eğitmen adını belirleyip “Ekle” dendiğinde hızlıca kayıtlı olan eğitmen derse ve şubeye eklenebilir. Eğitmen listesi dönem ve şubeye göre filtrelenebilir. Eğitmen adına göre arama yapılabilir. Eğitmen tablosunun sütunları kullanım şekline göre özelleştirilebilir.
 
-![Course Teacher](/docs.toltekcampus.com/media/modules/course.app/course/course_teacher.png)
+![Course Teacher](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_teacher.png)
 
 ## Öğrenci
 
 Kayıtlı olan öğrencinin kullanıcı adını girip “Ekle” dendiğinde hızlıca derse ve şubeye eklenebilir. Öğrenci listesi dönem, şube, durum bilgisine göre filtrelenebilir. Öğrenci ad, soyad ve numarasına göre filtrelenebilir. Öğrenci tablosundaki sütunlar özelleştirilebilir.
 
-![Course Student](/docs.toltekcampus.com/media/modules/course.app/course/course_student.png)
+![Course Student](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_student.png)
 
 ## Duyuru
 
@@ -122,7 +122,7 @@ Kayıtlı olan öğrencinin kullanıcı adını girip “Ekle” dendiğinde hı
 
 Duyuruyu oluşturan kişi adının (Oluşturma sütunu) yanındaki ikona tıklayarak duyuru tekrar düzenlenebilir, durumu pasif yapılabilir veya silinebilir.
 
-![Course Announce](/docs.toltekcampus.com/media/modules/course.app/course/course_announce.png)
+![Course Announce](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_announce.png)
 
 ## Konular
 
@@ -130,7 +130,7 @@ Konular sayfasında Konu adına göre arama yapabilir, sadece “Yayınlanan” 
 
 Konu eklemek için sayfa içerisinde işaretli yere konu adını girip “Ekle” butonuna tıklayarak kolayca yeni konu eklenebilir.
 
-![Course Topics](/docs.toltekcampus.com/media/modules/course.app/course/course_topics.png)
+![Course Topics](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_topics.png)
 
 ## Soru Havuzu
 
@@ -140,7 +140,7 @@ Soru tablosundaki sütunlar özelleştirilebilir.
 Seviye ve konuya göre soru listesi filtrelenebilir.
 No, soru metni ya da tanımlama metnine göre arama yapılabilir.
 
-![Course Question Poor](/docs.toltekcampus.com/media/modules/course.app/course/course_question_poor.png)
+![Course Question Poor](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_question_poor.png)
 
 ## Sanal Takvim
 
@@ -148,34 +148,34 @@ Eğitimle ilgili oluşturulan sanal takvimler burada listelenir. Sanal takvim li
 
 Sağlayıcı yanında bulunan ikona tıklayarak sanal takvim düzenlenebilir, kapsadığı şubelere erişilebilir, raporlarla takip edilebilir ve sanal takvim silinebilir.
 
-![Course Virtual Calendar](/docs.toltekcampus.com/media/modules/course.app/course/course_virtual_calendar.png)
+![Course Virtual Calendar](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_virtual_calendar.png)
 
 ### S.Takvim-Detaylar
 
 Sanal takvim adına tıklandığında Detaylar sayfasına geçiş yapılır. Burada Eğitim adı, Sağlayıcı, Gün, Süre, Durum ve Sanal sınıflar bilgileri yer alır.
 
-![Course.VirtualCalendar Details](/docs.toltekcampus.com/media/modules/course.app/course/course_virtual_calendar_details.png)
+![Course.VirtualCalendar Details](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_virtual_calendar_details.png)
 
 ### S.Takvim-Seçenekler
 
 Sanal takvimin Sağlayıcı, Başlık, Sıra, Gün (Ör: her Cuma), Saat, Süre ve Durum bilgileri değiştirilebilir.
 
-![Course.VirtualCalendar Edit](/docs.toltekcampus.com/media/modules/course.app/course/course_virtual_calendar_edit.png)
+![Course.VirtualCalendar Edit](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_virtual_calendar_edit.png)
 
 ### S.Takvim-Şubeler
 
 Sanal takvimin kapsadığı şubeler bu sayfada listelenir. Şubeleri döneme göre filtreleyebilir, şube adına göre arama yapılabilir.
 
-![Course.VirtualCalendar Group](/docs.toltekcampus.com/media/modules/course.app/course/course_virtual_calendar_group.png)
+![Course.VirtualCalendar Group](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_virtual_calendar_group.png)
 
 ### S.Takvim-Raporlar
 
 Sanal takvimle ilgili raporlara buradan erişilir ve Excel dosyası olarak indirilebilir.
 
-![Course.VirtualCalendar Report](/docs.toltekcampus.com/media/modules/course.app/course/course_virtual_calendar_report.png)
+![Course.VirtualCalendar Report](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_virtual_calendar_report.png)
 
 ## Raporlar
 
 Eğitimle ilgili raporlara buradan erişilir ve Excel dosyası olarak indirilebilir.
 
-![Course Report](/docs.toltekcampus.com/media/modules/course.app/course/course_report.png)
+![Course Report](/docs.toltekcampus.github.io/docs/media/modules/course.app/course/course_report.png)

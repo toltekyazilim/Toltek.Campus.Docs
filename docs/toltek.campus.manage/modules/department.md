@@ -15,7 +15,7 @@ nav_order: 3
 
 # Bölümler Modülü
 
-![Department](/docs.toltekcampus.com/media/modules/department/department.png)
+![Department](/docs.toltekcampus.github.io/docs/media/modules/department/department.png)
 
 ## İşlemler
 
@@ -26,7 +26,7 @@ nav_order: 3
 * **Temizle (Boş ve Pasif Bölümleri):** İçerisinde eğitim kaydı bulunmaya ve durumu pasif olan bölümleri siler
 * **Yüklemeler:** Daha önce Excel ile yapılan yüklemeleri, yüklemenin durumunu, eklenen, güncellenen, değişen ve geçersiz kayıt sayılarını gösterir
 
-![Department_Transactions](/docs.toltekcampus.com/media/modules/department/department_transactions.png)
+![Department_Transactions](/docs.toltekcampus.github.io/docs/media/modules/department/department_transactions.png)
 
 ## Yeni Bölüm
 
@@ -40,19 +40,19 @@ Yeni bölüm eklerken aşağıdaki form doldurulur ve “Ekle” butonuna tıkla
 * Anahtar: Bölüm adı belirlenir
 * Durum: Aktif/Pasif uygun olan seçilir
 
-![Department_New](/docs.toltekcampus.com/media/modules/department/department_new.png)
+![Department_New](/docs.toltekcampus.github.io/docs/media/modules/department/department_new.png)
 
 ## Eşitle
 
-![Department_Sync](/docs.toltekcampus.com/media/modules/department/department_sync.png)
+![Department_Sync](/docs.toltekcampus.github.io/docs/media/modules/department/department_sync.png)
 
 ## Detaylar
 
-![Department_Details](/docs.toltekcampus.com/media/modules/department/department_details.png)
+![Department_Details](/docs.toltekcampus.github.io/docs/media/modules/department/department_details.png)
 
-![Department_Cog](/docs.toltekcampus.com/media/modules/department/department_cog.png)
+![Department_Cog](/docs.toltekcampus.github.io/docs/media/modules/department/department_cog.png)
 
-![Department_Details2](/docs.toltekcampus.com/media/modules/department/department_details2.png)
+![Department_Details2](/docs.toltekcampus.github.io/docs/media/modules/department/department_details2.png)
 
 ### 1. Kısım
 
@@ -83,13 +83,13 @@ Bölüm hakkında genel bilgilerin yer aldığı paneldir.
 
 Bölümün özellikleri Seçenekler sayfasında düzenlenir.
 
-![Department_Edit](/docs.toltekcampus.com/media/modules/department/department_edit.png)
+![Department_Edit](/docs.toltekcampus.github.io/docs/media/modules/department/department_edit.png)
 
 ## Raporlar
 
 Bölüm hakkında raporlar bu sayfada incelenir. Raporlar Excel dosya formatında indirilebilir.
 
-![Department_Reports](/docs.toltekcampus.com/media/modules/department/department_reports.png)
+![Department_Reports](/docs.toltekcampus.github.io/docs/media/modules/department/department_reports.png)
 
 ## Birimleri İçe Aktar
 
@@ -97,7 +97,7 @@ _İçerik daha sonra eklenecek._
 
 ## Dersleri İçe Aktar
 
-![Department_LessonImport](/docs.toltekcampus.com/media/modules/department/department_lessonimport.png)
+![Department_LessonImport](/docs.toltekcampus.github.io/docs/media/modules/department/department_lessonimport.png)
 
 ## Pasif Yap
 

@@ -33,4 +33,4 @@ _İçerik daha sonra eklenecek._
 
 ## Senkronizasyon Geçmişi
 
-![Sync_SyncHistory](/docs.toltekcampus.com/media/modules/sync/sync_synchistory.png)
+![Sync_SyncHistory](/docs.toltekcampus.github.io/docs/media/modules/sync/sync_synchistory.png)

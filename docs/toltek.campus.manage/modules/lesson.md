@@ -15,11 +15,11 @@ nav_order: 9
 
 # Ders Modülü
 
-![Lesson](/docs.toltekcampus.com/media/modules/lesson/lesson.png)
+![Lesson](/docs.toltekcampus.github.io/docs/media/modules/lesson/lesson.png)
 
 ## İşlemler
 
-![Lesson_Transactions](/docs.toltekcampus.com/media/modules/lesson/lesson_transactions.png)
+![Lesson_Transactions](/docs.toltekcampus.github.io/docs/media/modules/lesson/lesson_transactions.png)
 
 İşlemler menüsü altında hızlıca yapılabilecek toplu işlemler bulunur:
 
@@ -30,14 +30,14 @@ nav_order: 9
 
 ## Yüklemeler
 
-![Lesson_Import](/docs.toltekcampus.com/media/modules/lesson/lesson_import.png)
+![Lesson_Import](/docs.toltekcampus.github.io/docs/media/modules/lesson/lesson_import.png)
 
 ## Detaylar
 
 Ders sütununda yer alan ders adına tıklandığında Detaylar sayfasına geçilir.
 
-![Lesson_Details](/docs.toltekcampus.com/media/modules/lesson/lesson_details.png)
+![Lesson_Details](/docs.toltekcampus.github.io/docs/media/modules/lesson/lesson_details.png)
 
 ## Eşleşme
 
-![Lesson_Pairing](/docs.toltekcampus.com/media/modules/lesson/lesson_pairing.png)
+![Lesson_Pairing](/docs.toltekcampus.github.io/docs/media/modules/lesson/lesson_pairing.png)

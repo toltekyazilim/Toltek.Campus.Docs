@@ -15,4 +15,4 @@ nav_order: 11
 
 # Yüklemeler Modülü
 
-![Import](/docs.toltekcampus.com/media/modules/import/import.png)
+![Import](/docs.toltekcampus.github.io/docs/media/modules/import/import.png)

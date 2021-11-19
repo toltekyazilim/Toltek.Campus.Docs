@@ -21,29 +21,29 @@ Akademik Takvim Modülünün özellikleri:
 * Dönemin haftaları (eğer akademik takvim haftalık olarak tanımlandıysa) otomatik tanımlanır, dönem içerisinde eğitim-öğretimin yapılmadığı haftalar var ise ilgili haftaların başlangıç bitiş tarihleri değiştirilebilir.
 * Dönem Raporlar sayfasında ve daha önceden tanımlanmış ilgili döneme ilişkin raporlara ulaşılır
 
-![Calendars](/docs.toltekcampus.com/media/modules/calendars/calendars.png)
+![Calendars](/docs.toltekcampus.github.io/docs/media/modules/calendars/calendars.png)
 
 ## Yeni Takvim
 
 Akademik takvim tanımlanırken ilgili takvimde eğitimlerin haftalık olarak işlenip işlenmeyeceği ve haftalık işlenecekse varsayılan olarak kaç hafta olacağı bilgileri tanımlanabilir.
 
-![New](/docs.toltekcampus.com/media/modules/calendars/newcalendars.png)
+![New](/docs.toltekcampus.github.io/docs/media/modules/calendars/newcalendars.png)
 
 ## Detaylar
 
 Detaylar sayfasında daha önceden oluşturulmuş takvim hakkında genel bilgiler yer alır.
 
-![Details](/docs.toltekcampus.com/media/modules/calendars/details.png)
+![Details](/docs.toltekcampus.github.io/docs/media/modules/calendars/details.png)
 
 ## Seçenekler
 
 Takvimin adı, durumu, haftalık kullanımının aktif/pasif olması ve hafta sayısı özelliklerini tekrar düzenleyebilirsiniz.
 
-![Edit](/docs.toltekcampus.com/media/modules/calendars/edit.png)
+![Edit](/docs.toltekcampus.github.io/docs/media/modules/calendars/edit.png)
 
 ## Raporlar
 
-![Reports](/docs.toltekcampus.com/media/modules/calendars/reports.png)
+![Reports](/docs.toltekcampus.github.io/docs/media/modules/calendars/reports.png)
 
 ## Takvimin Silinmesi
 
@@ -53,7 +53,7 @@ _İçerik daha sonra eklenecek._
 
 Yöneticiler daha önce tanımlanmış Akademik Takvimlere yeni Dönem tanımlayabilir, mevcut dönemleri listeleyip arama yapabilir, özelliklerine göre sıralayabilir, özelliklerini değiştirebilir ve silebilir.
 
-![Terms](/docs.toltekcampus.com/media/modules/calendars/terms/terms.png)
+![Terms](/docs.toltekcampus.github.io/docs/media/modules/calendars/terms/terms.png)
 
 ### Yeni Dönem
 
@@ -65,31 +65,31 @@ Dönem tanımlanırken:
 * Eğitimlerin başlayacağı ve dönemin biteceği tarihler tanımlanır
 * Eğer Akademik Takvim haftalık olarak tanımlandıysa dönemin kaç hafta olacağı belirlenir
 
-![New](/docs.toltekcampus.com/media/modules/calendars/terms/newterm.png)
+![New](/docs.toltekcampus.github.io/docs/media/modules/calendars/terms/newterm.png)
 
 ### Dönem Detaylar
 
 Dönem adına tıklayarak döneme ait genel bilgilerin yer aldığı sayfa görüntülenir.
 
-![Details](/docs.toltekcampus.com/media/modules/calendars/terms/details.png)
+![Details](/docs.toltekcampus.github.io/docs/media/modules/calendars/terms/details.png)
 
 ### Dönem Seçenekler
 
 Döneme ait özellikler tekrar düzenlenebilir. Bu özellikler ekran görüntüsünde olduğu gibidir:
 
-![Edit](/docs.toltekcampus.com/media/modules/calendars/terms/edit.png)
+![Edit](/docs.toltekcampus.github.io/docs/media/modules/calendars/terms/edit.png)
 
 ### Dönem Raporlar
 
 Dönemle ilgili raporlara bu sayfadan erişilir. Raporlar Excel dosyası olarak indirilebilir.
 
-![Reports](/docs.toltekcampus.com/media/modules/calendars/terms/reports.png)
+![Reports](/docs.toltekcampus.github.io/docs/media/modules/calendars/terms/reports.png)
 
 ### Haftalar
 
 Dönem içerisinde oluşturulan haftaların listesi başlangıç ve bitiş tarihleri bu tabloda listelenir.
 
-![Weeks](/docs.toltekcampus.com/media/modules/calendars/terms/weeks.png)
+![Weeks](/docs.toltekcampus.github.io/docs/media/modules/calendars/terms/weeks.png)
 
 ### Dönemin Silinmesi
 

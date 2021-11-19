@@ -22,4 +22,4 @@ nav_order: 1
 
 ---
 
-![LeftMenu](/docs.toltekcampus.com/media/layout/leftmenu.png)
+![LeftMenu](/docs.toltekcampus.github.io/docs/media/layout/leftmenu.png)
