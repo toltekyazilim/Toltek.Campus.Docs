@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: ToltekCampus Docs
 description: ToltekCampus Docs
-baseurl: "/toltekcampus" # the subpath of your site, e.g. /blog
-url: "https://toltekyazilim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://docs.toltekcampus.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme: just-the-docs
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
@@ -90,7 +90,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Bu sayfay GitHub'da düzenleyin"
 gh_edit_repository: "https://github.com/toltekyazilim/toltekcampus" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
