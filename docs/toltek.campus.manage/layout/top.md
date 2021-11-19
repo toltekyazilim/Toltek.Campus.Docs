@@ -1,3 +1,19 @@
+---
+layout: default
+title: Üst Menü
+parent: Yerleşim
+nav_order: 2
+---
+{: .no_toc }
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Üst Menü
 
 ![TopMenu](/docs.toltekcampus.com/media/layout/topmenu.png)

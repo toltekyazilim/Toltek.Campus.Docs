@@ -1,3 +1,19 @@
+---
+layout: default
+title: Duyurular
+parent: Eğitim
+nav_order: 7
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 # Duyuru Modülü
 
 Eğitimlerle ilgili oluşturulan tüm duyurular bu sayfada listelenir. Fakülte adına göre duyuru listesi filtrelenebilir. Duyuru başlığına göre arama yapılabilir. Duyurular tablosunun sütunları kullanım şekline göre özelleştirilebilir.

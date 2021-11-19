@@ -1,3 +1,18 @@
+---
+layout: default
+title: Sınavlar
+parent: Eğitim
+nav_order: 4
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Sınav Modülü
 
 Oluşturulmuş tüm sınavlar bu sayfada listelenir. Sınavlar tablosu Duruma (Devam Ediyor, Tamamlandı, Başlamadı, Yayınlanmadı), Zaman aralığına ve Fakülteye göre filtrelenebilir. Sınav adına göre arama yapılabilir. Sadece Yayınlanmış sınavları listelenebilir.

@@ -1,3 +1,19 @@
+---
+layout: default
+title: Ödevler
+parent: Eğitim
+nav_order: 5
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 # Ödev Modülü
 
 Ödevler modülünde oluşturulmuş tüm ödevler listelenir. Ödev listesi Fakülte adına göre veya Yayınlanma durumuna göre filtrelenebilir. Ödev adına göre arama yapılabilir.

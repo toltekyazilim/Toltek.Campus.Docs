@@ -1,3 +1,18 @@
+---
+layout: default
+title: Takvim
+parent: Yönetim
+nav_order: 1
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Akademik Takvim Modülü
 
 Akademik Takvim Modülünün özellikleri:

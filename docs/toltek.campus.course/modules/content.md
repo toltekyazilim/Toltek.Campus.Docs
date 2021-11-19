@@ -1,3 +1,19 @@
+---
+layout: default
+title: İçerikler
+parent: Eğitim
+nav_order: 6
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 # İçerik Modülü
 
 Eğitimlerin içerisine eklenen tüm içerikler (Yayınlananlar ve Yayınlanmayanlar dahil) burada listelenir. İçerikler listesi Fakülte bilgisine göre filtrelenebilir, içerik adına göre arama yapılabilir.

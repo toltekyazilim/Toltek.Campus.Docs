@@ -1,3 +1,18 @@
+---
+layout: default
+title: Raporlar
+parent: Yönetim
+nav_order: 13
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Raporlar Modülü
 
 Raporlar; yöneticilerin sistem, kullanıcılar, eğitimler ve daha fazlası hakkında detaylı bir öngörüye sahip olmasını sağlar.

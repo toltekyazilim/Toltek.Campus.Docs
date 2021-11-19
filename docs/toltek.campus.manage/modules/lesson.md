@@ -1,3 +1,18 @@
+---
+layout: default
+title: Ders
+parent: Yönetim
+nav_order: 9
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Ders Modülü
 
 ![Lesson](/docs.toltekcampus.com/media/modules/lesson/lesson.png)

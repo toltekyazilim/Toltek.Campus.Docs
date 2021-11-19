@@ -1,1 +1,0 @@
-# Anasayfa ve Gösterge Panelleri

@@ -1,3 +1,18 @@
+---
+layout: default
+title: Kullanıcılar
+parent: Eğitim
+nav_order: 8
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Kullanıcı Modülü
 
 Sisteme kayıtlı tüm kullanıcılar bu sayfada listelenir. Kullanıcı listesi rollere ve fakülteye göre filtrelenebilir ve kullanıcı adı, soyadı ve eposta adresine göre arama yapılabilir.

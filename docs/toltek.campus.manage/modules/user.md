@@ -1,3 +1,18 @@
+---
+layout: default
+title: Kullanıcı
+parent: Yönetim
+nav_order: 7
+---
+{: .no_toc }
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 # Kullanıcı Modülü
 
 Kullanıcılar modülünün özellikleri:

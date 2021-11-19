@@ -1,3 +1,18 @@
+---
+layout: default
+title: Duyuru
+parent: Yönetim
+nav_order: 8
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Duyuru Modülü
 
 * Yöneticiler yeni Duyuru tanımlayabilir, 

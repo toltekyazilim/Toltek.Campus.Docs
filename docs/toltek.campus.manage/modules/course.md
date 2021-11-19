@@ -1,3 +1,18 @@
+---
+layout: default
+title: Eğitim
+parent: Yönetim
+nav_order: 5
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Eğitim Modülü
 
 Eğitim modülünün özellikleri:

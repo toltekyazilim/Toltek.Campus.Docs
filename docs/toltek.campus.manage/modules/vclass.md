@@ -1,3 +1,18 @@
+---
+layout: default
+title: Sanal Sınıf
+parent: Yönetim
+nav_order: 14
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Sanal Sınıf Modülü
 
 Sanal sınıf modülü yaygın sanal sınıf yazılımlarının sisteme entegre edilerek senkron eğitimlerin tanımlanıp yönetildiği modüldür.

@@ -1,3 +1,19 @@
+---
+layout: default
+title: Eğitimler
+parent: Eğitim
+nav_order: 2
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 # Eğitim Modülü
 
 Sistemde tanımlı tüm eğitimlerin listelenip yönetilebildiği modüldür. Bu modülde:

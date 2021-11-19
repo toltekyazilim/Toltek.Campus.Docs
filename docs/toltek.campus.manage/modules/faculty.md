@@ -1,3 +1,18 @@
+---
+layout: default
+title: Fakülteler
+parent: Yönetim
+nav_order: 2
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Fakülteler Modülü
 
 Fakülteler modülünün özellikleri:

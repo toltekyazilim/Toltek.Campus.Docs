@@ -1,3 +1,18 @@
+---
+layout: default
+title: Bölümler
+parent: Yönetim
+nav_order: 3
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Bölümler Modülü
 
 ![Department](/docs.toltekcampus.com/media/modules/department/department.png)

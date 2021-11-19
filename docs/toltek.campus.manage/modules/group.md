@@ -1,3 +1,18 @@
+---
+layout: default
+title: Şube
+parent: Yönetim
+nav_order: 6
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Şube Modülü
 
 Şube Modülünün özellikleri:

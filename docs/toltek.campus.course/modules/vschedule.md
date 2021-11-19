@@ -1,3 +1,18 @@
+---
+layout: default
+title: Sanal Takvim
+parent: Eğitim
+nav_order: 9
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Sanal Takvim Modülü
 
 Düzenli olarak yapılacak olan sanal sınıflar için Sanal Takvim oluşturulur ve oluşturulan takvimler Sanal Takvim modülünde listelenir.

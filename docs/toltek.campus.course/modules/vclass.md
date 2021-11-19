@@ -1,3 +1,19 @@
+---
+layout: default
+title: Sanal Sınıflar
+parent: Eğitim
+nav_order: 3
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 # Sanal Sınıf Modülü
 
 Sanal Sınıflar Modülüne sol menü üzerinden erişilebileceği gibi Eğitimin İşlemler sayfasından erişim sağlanabilir.

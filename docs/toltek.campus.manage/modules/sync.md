@@ -1,3 +1,18 @@
+---
+layout: default
+title: Senkronizasyon
+parent: Yönetim
+nav_order: 10
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Senkronizasyon Modülü
 
 ## Senkronizasyon

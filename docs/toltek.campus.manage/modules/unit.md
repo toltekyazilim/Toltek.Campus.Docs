@@ -1,3 +1,18 @@
+---
+layout: default
+title: Birimler
+parent: Yönetim
+nav_order: 4
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Birimler Modülü
 
 Birim modülünün özellikleri:

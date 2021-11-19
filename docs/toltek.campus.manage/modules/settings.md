@@ -1,3 +1,18 @@
+---
+layout: default
+title: Ayarlar
+parent: Yönetim
+nav_order: 12
+---
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Ayarlar Modülü
 
 İlk defa kullanmaya başlıyorsanız bazı temel ayarların yapılması gerekir daha sonra hızlı bir şekilde eğitimlerinizi yönetmeye başlayabilirsiniz.
