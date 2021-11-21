@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Yerleşim
-nav_order: 2
+parent: Yönetim
+nav_order: 1
 has_children: true
 permalink: /docs/layout
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Ayarlar
 parent: Yönetim
-nav_order: 12
+nav_order: 13
 ---
 
 ## İçindekiler

@@ -2,7 +2,7 @@
 layout: default
 title: Şube
 parent: Yönetim
-nav_order: 6
+nav_order: 7
 ---
 
 ## İçindekiler

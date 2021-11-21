@@ -2,7 +2,7 @@
 layout: default
 title: Senkronizasyon
 parent: Yönetim
-nav_order: 10
+nav_order: 11
 ---
 
 ## İçindekiler

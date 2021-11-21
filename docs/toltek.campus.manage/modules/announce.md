@@ -2,7 +2,7 @@
 layout: default
 title: Duyuru
 parent: Yönetim
-nav_order: 8
+nav_order: 9
 ---
 
 ## İçindekiler

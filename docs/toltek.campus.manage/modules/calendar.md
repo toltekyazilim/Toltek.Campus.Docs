@@ -2,7 +2,7 @@
 layout: default
 title: Takvim
 parent: Yönetim
-nav_order: 1
+nav_order: 2
 ---
 
 ## İçindekiler

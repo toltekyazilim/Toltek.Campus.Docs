@@ -3,15 +3,8 @@ layout: default
 title: Alt Menü
 parent: Yerleşim
 nav_order: 3
----
-{: .no_toc }
-
-## İçindekiler
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
+grand_parent: Yönetim
+permalink: /docs/toltek.campus.manage/layout/lbuttom
 ---
 
 # Alt Menü

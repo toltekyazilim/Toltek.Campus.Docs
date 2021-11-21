@@ -2,7 +2,7 @@
 layout: default
 title: Sanal Sınıf
 parent: Yönetim
-nav_order: 14
+nav_order: 15
 ---
 
 ## İçindekiler

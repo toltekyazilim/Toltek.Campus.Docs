@@ -2,7 +2,7 @@
 layout: default
 title: Ders
 parent: Yönetim
-nav_order: 9
+nav_order: 10
 ---
 
 ## İçindekiler
