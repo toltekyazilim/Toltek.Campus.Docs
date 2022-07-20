@@ -6,7 +6,7 @@ description: "Toltek dokümantasyonları"
 permalink: /
 ---
 
-![ToltekCampus](media/logo.png)
+![ToltekCampus](docs/media/logo.png)
 
 1. [Yönetim Uygulaması](toltek.campus.manage/)
 2. [Eğitim Uygulaması](toltek.campus.course/)
