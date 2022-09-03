@@ -64,7 +64,7 @@ _İçerik daha sonra eklenecek._
 Soruyla ilgili aşağıdaki özellikler tekrar düzenlenebilir:
 
 * **Paylaşım:** Diğer eğitmenlerin eklenen soruyu kullanabilmesi için işaretlenmesi gerekir,
-* **Tanımlama:** xxxxxxxxxxxxxxxxxxxxxxxxx,
+* **Tanımlama:** Soru metninin olmadığı resimli sorularda soruyu tanımlayarak aramalarda bulunmasını kolaylaştırır,
 * **Seviye:** Sorunun seviyesi değiştirilebilir,
 * **Konu:** Daha önce eklenen konulardan uygun olan seçilebilir,
 * **Font:** Yazı fontu değiştirilebilir.
