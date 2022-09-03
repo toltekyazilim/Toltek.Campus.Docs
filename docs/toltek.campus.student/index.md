@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Öğrenci
-nav_order: 5
-has_children: true
+nav_order: 1
 permalink: /docs/student
 ---
 
