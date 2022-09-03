@@ -1,1 +1,0 @@
-Canlı Yayın Uygulaması

@@ -1,1 +1,0 @@
-Destek Merkezi Uygulaması

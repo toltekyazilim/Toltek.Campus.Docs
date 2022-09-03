@@ -11,6 +11,5 @@ permalink: /
 1. [Yönetim Uygulaması](docs/manage)
 2. [Eğitim Uygulaması](docs/course)
 3. [Öğrenci Uygulaması](docs/student)
-4. [Destek Uygulaması](docs/support)
-5. [Canlı Yayın Uygulaması](docs/live)
+
 

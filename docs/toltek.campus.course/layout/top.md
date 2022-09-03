@@ -1,3 +1,11 @@
+---
+layout: default
+title: Üst Menü
+parent: Yerleşim
+nav_order: 2
+grand_parent: Yönetim
+permalink: /docs/toltek.campus.course/layout/top
+---
 # Üst Menü
 
 ![TopMenu](/docs/media/layout/topmenu2.png)
