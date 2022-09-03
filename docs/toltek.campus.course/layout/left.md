@@ -3,7 +3,7 @@ layout: default
 title: Sol Menü
 parent: Yerleşim
 nav_order: 1
-grand_parent: Yönetim
+grand_parent: Eğitim
 permalink: /docs/toltek.campus.course/layout/left
 ---
 # Sol Menü

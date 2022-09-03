@@ -3,7 +3,7 @@ layout: default
 title: Üst Menü
 parent: Yerleşim
 nav_order: 2
-grand_parent: Yönetim
+grand_parent: Eğitim
 permalink: /docs/toltek.campus.course/layout/top
 ---
 # Üst Menü
